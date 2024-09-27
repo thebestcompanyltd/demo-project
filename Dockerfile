@@ -4,7 +4,6 @@ FROM alpine:3.11
 
 USER PEDRO
 
-
 WORKDIR /
 RUN git clone https://github.com/stamparm/DSVW
 
